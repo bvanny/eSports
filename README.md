@@ -11,14 +11,7 @@
 ## 📃 Sobre o projeto
 ###### Projeto desenvolvido no evento NLW eSports.
 
-O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do
-<br>
-GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021. 
-<br>
-Tive o prazer de adicionar na aplicação um campo
-<br>ao qual você pode simplesmente digitar o nome do usuario,
-<br>
-Fazendo com que a aplicação busque todas as informações do usuario, atualizando todo o card.
+O projeto eSports é uma aplicação estatica com o objetivo de mostrar seus jogos, streamer e canais favoritos
 
 ## 🚀 Tecnologias
 
